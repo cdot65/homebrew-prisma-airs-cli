@@ -1,9 +1,9 @@
-# airs-cli 8.0.0, rendered by scripts/homebrew-formula.sh from packaging/homebrew/airs-cli.rb.in.
+# airs-cli 8.2.0, rendered by scripts/homebrew-formula.sh from packaging/homebrew/airs-cli.rb.in.
 class AirsCli < Formula
   desc "Native Rust CLI for Prisma AIRS"
   homepage "https://crates.io/crates/airs-cli"
-  url "https://crates.io/api/v1/crates/airs-cli/8.0.0/download"
-  sha256 "830b5554d437860e6c30c363e9d3803f2706332e67f1eca00b6a7abfe101387e"
+  url "https://crates.io/api/v1/crates/airs-cli/8.2.0/download"
+  sha256 "4b5a40b96ac4edccf655b6571355e14ae7ef85546bb776c415618a3ac94a20c2"
   license "Apache-2.0"
 
   depends_on "rust" => :build
